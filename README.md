@@ -1,2 +1,3 @@
-# aulas-html5
-Um guia de HTML 5
+# Guia HTML 5 
+
+Uma adaptação traduzida em portgues da documentação do HTML da w3schools.

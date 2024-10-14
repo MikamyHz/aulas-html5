@@ -5,7 +5,7 @@ ___
 
 **O que verá nesse post:**
 - Documentos HTML
-- A ```<!Declaração DOCTYPE>```
+- Declaração <!DOCTYPE>
 - Cabeçalhos HTML
 - Parágrafos HTML
 - Links HTML
@@ -21,7 +21,7 @@ ___
 - A parte visível do documento HTML é entre ``<body``> e ``</body>``.
 
 Exemplo
-```javascript
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -35,7 +35,7 @@ Exemplo
 ```
 ___
 
-### A Declaração <!DOCTYPE>
+### Declaração <!DOCTYPE>
 - A declaração ``<!DOCTYPE>`` representa o tipo de documento e ajuda os navegadores a exibir páginas da Web corretamente.
 
 - Ela deve aparecer apenas uma vez, na parte superior da página (antes de qualquer tag HTML).
@@ -76,12 +76,9 @@ Os links HTML são definidos com a tag ``<a>``:
 <a href="https://www.google.com">This is a link</a>
 ```
 
-- O destino do link é especificado pelo atributo href. 
+- O destino do link é especificado pelo atributo ``href``. 
 
 - Os atributos são usados para fornecer informações adicionais sobre elementos HTML.
-
-- Você aprenderá mais sobre atributos em um capítulo posterior.
-
 ___
 
 ### Creditos
